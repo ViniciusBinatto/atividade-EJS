@@ -11,14 +11,14 @@ let clientes = [
   },
    {
     id: 2,
-    nome: "Toy bonitinha",
-    email: "toy@gmail.com",
+    nome: "Tonia",
+    email: "tonya@gmail.com",
     telefone: "1198264393",
     cidade: "MG",
   },
   {
     id: 3,
-    nome: "Lucas achador",
+    nome: "Lucas silva",
     email: "luquinhas@gmail.com",
     telefone: "1196423464",
     cidade: "SP",
